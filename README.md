@@ -1,6 +1,6 @@
-# create-svelte
+## Super Rentals SvelteKit Clone
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+Replicates the [Ember Super Rentals](https://github.com/ember-learn/super-rentals) tutorial app using Svelte/SvelteKit.
 
 ## Creating a project
 
